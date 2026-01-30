@@ -5,6 +5,10 @@
     <title>Mirohodez.ru</title>
 
     <style>
+a {
+    text-decoration: none;
+    color: white; /* или любой цвет */
+}
 body {
     background: url(https://i.ytimg.com/vi/udae955Z06E/maxresdefault.jpg) no-repeat center center fixed;
     background-size: cover;
