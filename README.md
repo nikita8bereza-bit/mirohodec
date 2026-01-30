@@ -1,5 +1,4 @@
-# mirohodec это мой первый сайт -)+_+(-
-<!DOCTYPE html>
+#mirohodec это мой первый сайт -)+_+(-
 <html lang="ru">
 <head>
     <meta charset="UTF-8">
