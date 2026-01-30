@@ -17,7 +17,7 @@ body {
 }
       a {
     text-decoration: none;
-    color: white; /* или любой цвет */
+    color: white;
 }
          h1 {
             color: #00ff88;
