@@ -15,10 +15,6 @@ body {
     text-align: center;
     padding-top: 100px;
 }
-      a {
-    text-decoration: none;
-    color: white;
-}
          h1 {
             color: #00ff88;
             font-size: 48px;
