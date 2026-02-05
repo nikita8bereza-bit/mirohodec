@@ -57,7 +57,7 @@ body {
         }
 
         function go3() {
-            window.location.href = "https://www.youtube.com/watch?v=qUBXOby7DJY";
+            window.location.href = "https://www.youtube.com/watch?v=hLYEZcUnjyc";
         }
 
     </script>
